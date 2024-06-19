@@ -1,3 +1,5 @@
+console.log('')
+console.log('')
 console.log('-----------------------------------------------Ejercicio 1--------------------------------------------------------------------------------------------')
 //Genere una lista que contenga solo los autores de dicha lista en una variable llamada: autores. 
 const libros = [{titulo: "Cien años de soledad", autor: "Gabriel García Márquez", año: 
